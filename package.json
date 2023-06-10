@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "dot-prop": "^5.2.0",
-    "gatsby": "^2.23.12",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-typography": "^2.5.10",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
